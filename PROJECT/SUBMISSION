@@ -1,0 +1,11 @@
+GEN AI UNIT 1 PROJECT
+
+NAME:DELISHA RIYONA DSOUZA
+SRN: PES2UG23CS166
+SECTION: C
+
+PROJECT TITLE:  
+Category 5: Optimization & Tools (The "Utility" Agents)
+Grammar & Spell Fixer Goal: 
+"I am go to school" -> Detects error and suggests "going".
+Tech: pipeline('fill-mask') to predict the mathematically correct word in a sentence structure.
